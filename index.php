@@ -1,15 +1,21 @@
 <!DOCTYPE html>
     <html>
         <head>
-            <title>Web bán sách</title>
-            <link rel="stylesheet" type="text/css" href="style/style.css" ">
+            <title>Test web</title>
+            <link rel="stylesheet" type="text/css" href="style/style.css"/>
         </head>
 
         <body>
-            <div class="wrapper">This is wrapper
-                <div class="header">This is header</div>
-                <div class="content">This is header</div>
-                <div class="footer">This is footer</div>
+            <div class="wrapper">
+                <div class="header">
+					<div class="banner"></div>
+					<div class="menu"></div>
+				</div>
+                <div class="main-column">
+					<div class="sidebar"></div>
+					<div class="content"></div>
+				</div>
+                <div class="footer"></div>
             </div>
         </body>
     </html>

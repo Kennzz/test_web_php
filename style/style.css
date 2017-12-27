@@ -1,0 +1,39 @@
+/**
+    CSS cho khung web site
+ */
+.wrapper{
+    width: 1060px;
+    height:auto;
+    margin: auto;
+}
+.header{
+    height: auto;
+}
+.banner{
+    width: 100%;
+    height: 200px;
+    background: #732f3c;
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    background: #592c73;
+}
+.sidebar{
+    width: 25%;
+    height: 1000px;
+    background: #197316;
+    float: left;
+}
+.content{
+    float: right;
+    width: 70%;
+    height: 1000px;
+    background: #73671e;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background: #1b1973;
+    float: left;
+}
